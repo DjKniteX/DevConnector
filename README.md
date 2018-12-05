@@ -4,4 +4,4 @@ This is just the tutorial project and will use this as a basis for my geolocatio
 
 https://nikkix.me
 
-Finished: Video 63
+Finished: Video 64: Had to copy brad code over from profile due to type defined error

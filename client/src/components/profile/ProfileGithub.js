@@ -6,8 +6,8 @@ class ProfileGithub extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      clientId: '26c196bacea7db10cf48',
-      clientSecret: '0885cb690e07d2a93a6afb0891fb552fd9f7aa53',
+      clientId: '0e0d8dc64b8ea8d28c49',
+      clientSecret: '075915bb8fecc3229ca7c3b0e648be58bd4856d1',
       count: 5,
       sort: 'created: asc',
       repos: []

@@ -1,6 +1,5 @@
-module.exports = {
-    mongoURI: 'mongodb://admin:admin123@ds151602.mlab.com:51602/scratch-nikkix',
-    secretOrKey: 'secret'
+if(process.env.NODE_ENV === 'production') {
+    module.exports = require('./keys_prod');
+} else {
+    module.exports = require('./keys_dev');
 }
-
-// module.exports makes the file avaiable outside of this code

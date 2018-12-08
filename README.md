@@ -4,4 +4,4 @@ This is just the tutorial project and will use this as a basis for my geolocatio
 
 https://nikkix.me
 
-Finished: Video 66: Post State/Add Post
+Finished: Video 68: Post State/Add Post
